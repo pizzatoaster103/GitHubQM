@@ -6,3 +6,9 @@ CTRL + Shift + P: .net generate new assets
 
 launch.json:
 control: integratedTerminal
+
+git status
+git add
+git commit -m "message"
+git status (otra vez)
+git push
