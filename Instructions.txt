@@ -1,0 +1,8 @@
+
+dotnet new console
+dotnet new gitconfig
+
+CTRL + Shift + P: .net generate new assets
+
+launch.json:
+control: integratedTerminal
