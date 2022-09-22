@@ -24,7 +24,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
             int y = 7;
             int result = Adder(x, y);
 
-            Console.Write($"\nYour grade is {result}/100 \n Oh my...");
+            Console.Write($"\nYour grade is {result}/100 \n Oh my... brilliant!");
         }
 
         static int Adder(int a, int b)
